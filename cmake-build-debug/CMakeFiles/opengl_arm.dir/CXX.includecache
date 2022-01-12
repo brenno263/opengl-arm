@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/b/Documents/cs336/opengl-arm/main.cpp
+iostream
+-
+GL/glut.h
+-
+vec3.h
+/home/b/Documents/cs336/opengl-arm/vec3.h
+transform.h
+/home/b/Documents/cs336/opengl-arm/transform.h
+scenes.h
+/home/b/Documents/cs336/opengl-arm/scenes.h
+
+/home/b/Documents/cs336/opengl-arm/scenes.h
+
+/home/b/Documents/cs336/opengl-arm/transform.h
+memory
+-
+string
+-
+unordered_map
+-
+utility
+-
+
+/home/b/Documents/cs336/opengl-arm/vec3.h
+iostream
+-
+cmath
+-
+
